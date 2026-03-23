@@ -14,7 +14,7 @@ I'm a passionate **MCA student** with a background in **Physics, Mathematics, an
 ## 🌱 Currently Learning
 - Advanced **React.js** concepts
 - Deep dive into **Data Structures and Algorithms**
-- Backend development with **Spring Boot** (future plan)
+- Backend development with **Node.js Express.js Mongodb**
 
 ## 🎯 Hobbies & Interests
 - 🎵 **Music Enthusiast** (Melophile) – Love exploring different genres.
