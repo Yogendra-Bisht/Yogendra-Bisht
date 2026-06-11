@@ -29,12 +29,16 @@ I see the world beyond the ordinary, seeking knowledge that bridges the past, th
 
 ## 📌 Projects
 🔹 **Student Room Accommodation Platform** - A comprehensive platform connecting students with suitable accommodation options, featuring search, filtering, and booking capabilities.
+   - 🔗 [Live Link](#) | 📂 [GitHub Repository](#)
 
 🔹 **Portfolio Website** - A personal website showcasing my skills, experience, and projects in an interactive and visually appealing manner.
+   - 🔗 [Live Link](#) | 📂 [GitHub Repository](#)
 
 🔹 **Utility Toolbox** - A collection of useful tools and utilities designed to simplify everyday tasks and boost productivity.
+   - 🔗 [Live Link](#) | 📂 [GitHub Repository](#)
 
 🔹 **Cosmos Dashboard** - An interactive dashboard for exploring space data, celestial phenomena, and astronomy-related information.
+   - 🔗 [Live Link](#) | 📂 [GitHub Repository](#)
 
 ## 📫 How to Reach Me
 Feel free to connect with me on:
