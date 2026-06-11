@@ -28,9 +28,13 @@ I'm a passionate **MCA student** with a background in **Physics, Mathematics, an
 I see the world beyond the ordinary, seeking knowledge that bridges the past, the present, and the infinite cosmos. If something is mysterious, intelligent, or thought-provoking—I'm drawn to it.[...]
 
 ## 📌 Projects
-🔹 **Portfolio Website** - A personal website showcasing my skills and projects.
-🔹 **Exam Prep Hub** - A platform for students to access previous year question papers.
-🔹 More exciting projects coming soon! 🚀
+🔹 **Student Room Accommodation Platform** - A comprehensive platform connecting students with suitable accommodation options, featuring search, filtering, and booking capabilities.
+
+🔹 **Portfolio Website** - A personal website showcasing my skills, experience, and projects in an interactive and visually appealing manner.
+
+🔹 **Utility Toolbox** - A collection of useful tools and utilities designed to simplify everyday tasks and boost productivity.
+
+🔹 **Cosmos Dashboard** - An interactive dashboard for exploring space data, celestial phenomena, and astronomy-related information.
 
 ## 📫 How to Reach Me
 Feel free to connect with me on:
