@@ -1,7 +1,7 @@
 # Hi there, I'm Yogendra Singh! 👋
 
 ## 🚀 About Me
-I'm a passionate **MCA student** with a background in **Physics, Mathematics, and Information Technology**. I love exploring the world of **web development**, **data structures & algorithms**, and **cybersecurity**. Currently, I'm building my skills in the **MERN stack** and aiming to become a full-stack developer.
+I'm a passionate **MCA student** with a background in **Physics, Mathematics, and Information Technology**. I love exploring the world of **web development**, **data structures & algorithms**, and [...]
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js
@@ -25,7 +25,7 @@ I'm a passionate **MCA student** with a background in **Physics, Mathematics, an
 - 🔮 **Quantum World & The Cosmos** – Exploring the unseen fabric of reality and the mysteries of space-time.
 - ✂️ **Creative Paper Crafting** – Inspired by artistic creativity.
 
-I see the world beyond the ordinary, seeking knowledge that bridges the past, the present, and the infinite cosmos. If something is mysterious, intelligent, or thought-provoking—I'm drawn to it. 
+I see the world beyond the ordinary, seeking knowledge that bridges the past, the present, and the infinite cosmos. If something is mysterious, intelligent, or thought-provoking—I'm drawn to it.[...]
 
 ## 📌 Projects
 🔹 **Portfolio Website** - A personal website showcasing my skills and projects.
@@ -33,9 +33,13 @@ I see the world beyond the ordinary, seeking knowledge that bridges the past, th
 🔹 More exciting projects coming soon! 🚀
 
 ## 📫 How to Reach Me
-- Currently you will not be able to reach me.
+Feel free to connect with me on:
+- **Email:** [Add your email here]
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Twitter/X:** [twitter.com/yourprofile](https://twitter.com/yourprofile)
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- **GitHub Issues:** Feel free to open an issue in any of my repositories!
 
-💡 _"Code is like humor. When you have to explain it, it’s bad." - Cory House_
+💡 _"Code is like humor. When you have to explain it, it's bad." - Cory House_
 
 Let's connect and build something amazing together! 🚀
-
