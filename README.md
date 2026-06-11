@@ -29,23 +29,23 @@ I see the world beyond the ordinary, seeking knowledge that bridges the past, th
 
 ## 📌 Projects
 🔹 **Student Room Accommodation Platform** - A comprehensive platform connecting students with suitable accommodation options, featuring search, filtering, and booking capabilities.
-   - 🔗 [Live Link](#) | 📂 [GitHub Repository](#)
+   - 🔗 [Live Link](https://srap-ten.vercel.app/) | 📂 [GitHub Repository](https://github.com/Yogendra-Bisht/SRAP)
 
 🔹 **Portfolio Website** - A personal website showcasing my skills, experience, and projects in an interactive and visually appealing manner.
-   - 🔗 [Live Link](#) | 📂 [GitHub Repository](#)
+   - 🔗 [Live Link](https://my-portfolio-nine-jet-47.vercel.app/) | 📂 [GitHub Repository](https://github.com/Yogendra-Bisht/Next/tree/main/my-portfolio)
 
 🔹 **Utility Toolbox** - A collection of useful tools and utilities designed to simplify everyday tasks and boost productivity.
-   - 🔗 [Live Link](#) | 📂 [GitHub Repository](#)
+   - 🔗 [Live Link](https://utility-toolbox-phi.vercel.app/) | 📂 [GitHub Repository](https://github.com/Yogendra-Bisht/Next/tree/main/toolbox)
 
 🔹 **Cosmos Dashboard** - An interactive dashboard for exploring space data, celestial phenomena, and astronomy-related information.
-   - 🔗 [Live Link](#) | 📂 [GitHub Repository](#)
+   - 🔗 [Live Link](https://cosmos-dashboard-sandy.vercel.app/) | 📂 [GitHub Repository](https://github.com/Yogendra-Bisht/cosmos-dashboard)
 
 ## 📫 How to Reach Me
 Feel free to connect with me on:
-- **Email:** [Add your email here]
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter/X:** [twitter.com/yourprofile](https://twitter.com/yourprofile)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- **Email:** [bishtyogendra96436373@gmail.com]
+- **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/yogendra-bisht-7b4b63288)
+- **Instagram:** [instagram.com/yourprofile](https://www.instagram.com/_yogibisht_)
+- **Portfolio:** [yourportfolio.com](https://my-portfolio-nine-jet-47.vercel.app/)
 - **GitHub Issues:** Feel free to open an issue in any of my repositories!
 
 💡 _"Code is like humor. When you have to explain it, it's bad." - Cory House_
