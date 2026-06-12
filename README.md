@@ -43,9 +43,9 @@ I see the world beyond the ordinary, seeking knowledge that bridges the past, th
 ## 📫 How to Reach Me
 Feel free to connect with me on:
 - **Email:** [bishtyogendra96436373@gmail.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/yogendra-bisht-7b4b63288)
-- **Instagram:** [instagram.com/yourprofile](https://www.instagram.com/_yogibisht_)
-- **Portfolio:** [yourportfolio.com](https://my-portfolio-nine-jet-47.vercel.app/)
+- **LinkedIn:** [www.linkedin.com/in/yogendra-bisht-7b4b63288](www.linkedin.com/in/yogendra-bisht-7b4b63288)
+- **Instagram:** [https://www.instagram.com/_yogibisht_](https://www.instagram.com/_yogibisht_)
+- **Portfolio:** [https://my-portfolio-nine-jet-47.vercel.app/](https://my-portfolio-nine-jet-47.vercel.app/)
 - **GitHub Issues:** Feel free to open an issue in any of my repositories!
 
 💡 _"Code is like humor. When you have to explain it, it's bad." - Cory House_
