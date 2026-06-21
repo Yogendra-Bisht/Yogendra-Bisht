@@ -1,7 +1,7 @@
 # Hi there, I'm Yogendra Singh! 👋
 
 ## 🚀 About Me
-I'm a passionate **MCA student** with a background in **Physics, Mathematics, and Information Technology**. I love exploring the world of **web development**, **data structures & algorithms**, and [...]
+I'm a full-stack developer in the making with a passion for clean code, web technologies, and exploring the unknown. I have a background in **Physics, Mathematics, and Information Technology**. I love exploring the world of **web development**, **data structures & algorithms**, and [...]
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js
