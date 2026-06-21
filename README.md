@@ -40,6 +40,9 @@ I see the world beyond the ordinary, seeking knowledge that bridges the past, th
 🔹 **Cosmos Dashboard** - An interactive dashboard for exploring space data, celestial phenomena, and astronomy-related information.
    - 🔗 [Live Link](https://cosmos-dashboard-sandy.vercel.app/) | 📂 [GitHub Repository](https://github.com/Yogendra-Bisht/cosmos-dashboard)
 
+🔹 **Zodify JSON** - A client-side developer utility that transforms raw JSON objects into valid, runtime-checked Zod schemas and inferred TypeScript definitions instantly, with zero server calls and 100% security.
+   - 🔗 [Live Link](https://zodify-json.vercel.app/) | 📂 [GitHub Repository](https://github.com/Yogendra-Bisht/zodify-json)
+
 ## 📫 How to Reach Me
 Feel free to connect with me on:
 - **Email:** [bishtyogendra96436373@gmail.com]
