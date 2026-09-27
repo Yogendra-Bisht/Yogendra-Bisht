@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-I'm a full-stack developer in the making with a passion for clean code, web technologies, and exploring the unknown. I have a background in **Physics, Mathematics, and Information Technology**. I am constantly improving my problem-solving skills and learning new tools to build practical, scalable products.
+I'm a full-stack developer in the making with a passion for clean code, web technologies, and exploring the unknown. I have a background in **Physics, Mathematics, and Information Technology**. I [...]
 
 ---
 
@@ -134,10 +134,10 @@ I see the world beyond the ordinary, seeking knowledge that bridges the past, th
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogendra-Bisht&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogendra-Bisht&layout=compact&theme=radical&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogendra-Bisht&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/Yogendra-Bisht)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogendra-Bisht&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/Yogendra-Bisht)
 
 </div>
 
