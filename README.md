@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-I'm a full-stack developer in the making with a passion for clean code, web technologies, and exploring the unknown. I have a background in **Physics, Mathematics, and Information Technology**. I love exploring the world of **web development**, **data structures & algorithms**, and the infinite possibilities of technology.
+I'm a full-stack developer in the making with a passion for clean code, web technologies, and exploring the unknown. I have a background in **Physics, Mathematics, and Information Technology**. I am constantly improving my problem-solving skills and learning new tools to build practical, scalable products.
 
 ---
 
@@ -54,11 +54,19 @@ I'm a full-stack developer in the making with a passion for clean code, web tech
 
 ---
 
+## 🏆 Certifications
+
+| Certification | Provider | Credential ID | Certification Number | Earned | Expires |
+|---|---|---|---|---|---|
+| **GitHub Foundations** | Microsoft / GitHub | `7A5FED1001214AAF` | `03363B-2E397B` | July 14, 2026 | July 15, 2028 |
+
+---
+
 ## 🎯 Hobbies & Interests
 
 | 🎵 | 🎹 | 📺 | 🚀 | 🏺 | 🔮 | ✂️ |
-|----|----|----|----|----|----|-----|
-| **Music Enthusiast** | **Aspiring Pianist** | **Sci-Fi & Space** | **Astronomy** | **Ancient Mysteries** | **Quantum World** | **Paper Crafting** |
+| |----|----|----|----|----|----|
+| | **Music Enthusiast** | **Aspiring Pianist** | **Sci-Fi & Space** | **Astronomy** | **Ancient Mysteries** | **Quantum World** | **Paper Crafting** |
 
 I see the world beyond the ordinary, seeking knowledge that bridges the past, the present, and the infinite cosmos. If something is mysterious, intelligent, or thought-provoking—I'm drawn to it.
 
