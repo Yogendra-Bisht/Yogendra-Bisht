@@ -56,6 +56,10 @@ I'm a full-stack developer in the making with a passion for clean code, web tech
 
 ## 🏆 Certifications
 
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-Foundation-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations" />
+</div>
+
 | Certification | Provider | Credential ID | Certification Number | Earned | Expires |
 |---|---|---|---|---|---|
 | **GitHub Foundations** | Microsoft / GitHub | `7A5FED1001214AAF` | `03363B-2E397B` | July 14, 2026 | July 15, 2028 |
