@@ -135,9 +135,9 @@ I see the world beyond the ordinary, seeking knowledge that bridges the past, th
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogendra-Bisht&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/Yogendra-Bisht)
+<img src="https://github-readme-stats.vercel.app/api?username=Yogendra-Bisht&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogendra-Bisht&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/Yogendra-Bisht)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogendra-Bisht&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400">
 
 </div>
 
