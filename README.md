@@ -131,15 +131,34 @@ I see the world beyond the ordinary, seeking knowledge that bridges the past, th
 
 ---
 
-## 📊 GitHub Stats
+## 📈 My Journey
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yogendra-Bisht&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogendra-Bisht&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400">
+| 🎯 Milestone | 📊 Progress |
+|---|---|
+| **5+ Years** | Coding & Problem Solving |
+| **10+** | Full-Stack Projects Deployed |
+| **3** | Major Tech Stacks Mastered |
+| **∞** | Passion for Learning |
 
 </div>
+
+### ⭐ Key Achievements
+- 🏆 **GitHub Foundations Certified** - Mastered Git, GitHub workflows, and best practices
+- 🚀 **Multiple Live Projects** - Full-stack MERN applications deployed on Vercel & Render
+- 💡 **Open Source Contributor** - Active in building and contributing to developer tools
+- 🎓 **DSA Specialist** - Strong foundation in Data Structures & Algorithms (Java, C++)
+
+### 🔥 Current Focus Areas
+```
+┌─────────────────────────────────────────┐
+│ React Optimization & Advanced Patterns  │
+│ Backend Architecture with Node.js       │
+│ Database Design & Optimization          │
+│ TypeScript & Type Safety                │
+└─────────────────────────────────────────┘
+```
 
 ---
 
