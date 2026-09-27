@@ -51,6 +51,10 @@ I'm a full-stack developer in the making with a passion for clean code, web tech
 - 🔸 Deep dive into **Data Structures and Algorithms**
 - 🔸 Backend development with **Node.js, Express.js & MongoDB**
 - 🔸 **TypeScript** for type-safe development
+- 🔸 **AWS** fundamentals: **EC2, S3, IAM, CloudWatch**, and cloud deployment flows
+- 🔸 **Linux** command-line usage, shell scripting, and server basics
+- 🔸 **Docker** containerization, image building, and deployment workflows
+- 🔸 **DevOps** essentials: CI/CD, automation, monitoring, and cloud infrastructure
 
 ---
 
