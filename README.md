@@ -43,6 +43,7 @@ I'm a full-stack developer in the making with a passion for clean code, web tech
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -81,6 +82,36 @@ I see the world beyond the ordinary, seeking knowledge that bridges the past, th
 ---
 
 ## 📌 Projects
+
+### 🔹 WordCatch — Browser Extension for Active Vocabulary Building
+> Transform passive reading into active learning. Double-click any word on the web to instantly look up its definition, save it with context, and build a personal vocabulary database organized by date.
+>
+> **The Problem It Solves:** Most readers consume language passively without retaining unfamiliar words. WordCatch eliminates friction by making vocabulary capture instant and frictionless—turning meaningful learning moments into lasting knowledge.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Key Features:**
+- ⚡ Instant word lookups with Shadow DOM isolation
+- 💾 Smart server-side caching with morphological fallbacks
+- 📅 Date-stamped vocabulary cheat sheet with range filtering
+- 🔐 Secure JWT-based authentication (Manifest V3)
+- 📊 Rate-limited API with nginx reverse proxy
+- 🧪 Comprehensive test suite (Jest, Supertest, mongodb-memory-server)
+
+**Infrastructure:**
+- Production: AWS EC2 + nginx + MongoDB Atlas
+- Development: Docker Compose (MongoDB + Express API)
+- Deployment: Render (live API at [wordcatch.onrender.com](https://wordcatch.onrender.com/health))
+- Status: Microsoft Edge Add-on (pending store review)
+
+📂 [GitHub Repository](https://github.com/Yogendra-Bisht/WordCatch) | 📖 [Full Documentation](https://github.com/Yogendra-Bisht/WordCatch#readme)
+
+---
 
 ### 🔹 Student Room Accommodation Platform
 > A comprehensive platform connecting students with suitable accommodation options, featuring search, filtering, and booking capabilities.
@@ -153,6 +184,7 @@ I see the world beyond the ordinary, seeking knowledge that bridges the past, th
 - 🚀 **Multiple Live Projects** - Full-stack MERN applications deployed on Vercel & Render
 - 💡 **Open Source Contributor** - Active in building and contributing to developer tools
 - 🎓 **DSA Specialist** - Strong foundation in Data Structures & Algorithms (Java, C++)
+- 🌐 **Browser Extension Developer** - Manifest V3 Chrome Extension in production (WordCatch)
 
 ### 🔥 Current Focus Areas
 ```
@@ -161,6 +193,8 @@ I see the world beyond the ordinary, seeking knowledge that bridges the past, th
 │ Backend Architecture with Node.js       │
 │ Database Design & Optimization          │
 │ TypeScript & Type Safety                │
+│ Browser Extension Development           │
+│ Cloud Infrastructure & DevOps           │
 └─────────────────────────────────────────┘
 ```
 
