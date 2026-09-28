@@ -48,10 +48,6 @@ I'm a full-stack developer in the making with a passion for clean code, web tech
 ---
 
 ## 🌱 Currently Learning
-- 🔸 Advanced **React.js** concepts & State Management
-- 🔸 Deep dive into **Data Structures and Algorithms**
-- 🔸 Backend development with **Node.js, Express.js & MongoDB**
-- 🔸 **TypeScript** for type-safe development
 - 🔸 **AWS** fundamentals: **EC2, S3, IAM, CloudWatch**, and cloud deployment flows
 - 🔸 **Linux** command-line usage, shell scripting, and server basics
 - 🔸 **Docker** containerization, image building, and deployment workflows
@@ -74,8 +70,8 @@ I'm a full-stack developer in the making with a passion for clean code, web tech
 ## 🎯 Hobbies & Interests
 
 | 🎵 | 🎹 | 📺 | 🚀 | 🏺 | 🔮 | ✂️ |
-| |----|----|----|----|----|----|
-| | **Music Enthusiast** | **Aspiring Pianist** | **Sci-Fi & Space** | **Astronomy** | **Ancient Mysteries** | **Quantum World** | **Paper Crafting** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Music Enthusiast** | **Aspiring Pianist** | **Sci-Fi & Space** | **Astronomy** | **Ancient Mysteries** | **Quantum World** | **Paper Crafting** |
 
 I see the world beyond the ordinary, seeking knowledge that bridges the past, the present, and the infinite cosmos. If something is mysterious, intelligent, or thought-provoking—I'm drawn to it.
 
