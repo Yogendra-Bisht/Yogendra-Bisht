@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-I'm a full-stack developer in the making with a passion for clean code, web technologies, and exploring the unknown. I have a background in **Physics, Mathematics, and Information Technology**. I [...]
+I'm a full-stack developer in the making with a passion for clean code, web technologies, and exploring the unknown. I have a background in **Physics, Mathematics, and Information Technology**.
 
 ---
 
@@ -73,16 +73,12 @@ I'm a full-stack developer in the making with a passion for clean code, web tech
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Music Enthusiast** | **Aspiring Pianist** | **Sci-Fi & Space** | **Astronomy** | **Ancient Mysteries** | **Quantum World** | **Paper Crafting** |
 
-I see the world beyond the ordinary, seeking knowledge that bridges the past, the present, and the infinite cosmos. If something is mysterious, intelligent, or thought-provoking—I'm drawn to it.
-
 ---
 
 ## 📌 Projects
 
 ### 🔹 WordCatch — Browser Extension for Active Vocabulary Building
 > Transform passive reading into active learning. Double-click any word on the web to instantly look up its definition, save it with context, and build a personal vocabulary database organized by date.
->
-> **The Problem It Solves:** Most readers consume language passively without retaining unfamiliar words. WordCatch eliminates friction by making vocabulary capture instant and frictionless—turning meaningful learning moments into lasting knowledge.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -103,7 +99,7 @@ I see the world beyond the ordinary, seeking knowledge that bridges the past, th
 - Production: AWS EC2 + nginx + MongoDB Atlas
 - Development: Docker Compose (MongoDB + Express API)
 - Deployment: Render (live API at [wordcatch.onrender.com](https://wordcatch.onrender.com/health))
-- Status: Microsoft Edge Add-on (pending store review)
+- **Status: ✅ Approved and live on Microsoft Edge Add-ons** — [Install WordCatch for Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/phgiaghmefmfigmhahigfdlgacifeglb)
 
 📂 [GitHub Repository](https://github.com/Yogendra-Bisht/WordCatch) | 📖 [Full Documentation](https://github.com/Yogendra-Bisht/WordCatch#readme)
 
@@ -180,19 +176,7 @@ I see the world beyond the ordinary, seeking knowledge that bridges the past, th
 - 🚀 **Multiple Live Projects** - Full-stack MERN applications deployed on Vercel & Render
 - 💡 **Open Source Contributor** - Active in building and contributing to developer tools
 - 🎓 **DSA Specialist** - Strong foundation in Data Structures & Algorithms (Java, C++)
-- 🌐 **Browser Extension Developer** - Manifest V3 Chrome Extension in production (WordCatch)
-
-### 🔥 Current Focus Areas
-```
-┌─────────────────────────────────────────┐
-│ React Optimization & Advanced Patterns  │
-│ Backend Architecture with Node.js       │
-│ Database Design & Optimization          │
-│ TypeScript & Type Safety                │
-│ Browser Extension Development           │
-│ Cloud Infrastructure & DevOps           │
-└─────────────────────────────────────────┘
-```
+- 🌐 **Browser Extension Developer** - Manifest V3 browser extension in production (WordCatch)
 
 ---
 
