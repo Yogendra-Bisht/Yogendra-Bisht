@@ -124,7 +124,7 @@ I'm a full-stack developer in the making with a passion for clean code, web tech
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-🔗 [Live Link](https://my-portfolio-nine-jet-47.vercel.app/) | 📂 [GitHub Repository](https://github.com/Yogendra-Bisht/Next/tree/main/my-portfolio)
+🔗 [Live Link](https://www.yogendrabisht.dev) | 📂 [GitHub Repository](https://github.com/Yogendra-Bisht/Next/tree/main/my-portfolio)
 
 ---
 
@@ -190,7 +190,7 @@ I'm a full-stack developer in the making with a passion for clean code, web tech
 | 📧 **Email** | [bishtyogendra96436372@gmail.com](mailto:bishtyogendra96436372@gmail.com) |
 | 💼 **LinkedIn** | [yogendra-bisht-7b4b63288](https://www.linkedin.com/in/yogendra-bisht-7b4b63288) |
 | 📸 **Instagram** | [@_yogibisht_](https://www.instagram.com/_yogibisht_) |
-| 🌐 **Portfolio** | [my-portfolio-nine-jet-47.vercel.app](https://my-portfolio-nine-jet-47.vercel.app/) |
+| 🌐 **Portfolio** | [yogendrabisht.dev](https://www.yogendrabisht.dev//) |
 
 </div>
 
